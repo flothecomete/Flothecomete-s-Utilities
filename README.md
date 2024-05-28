@@ -9,7 +9,6 @@ Clonez le dépôt GitHub et installez les dépendances nécessaires :
 ```bash
 git clone https://github.com/flothecomete/Flothecomete-s-Utilities
 cd Flothecomete-s-Utilities
-# Installez les dépendances spécifiques ici
 ```
 
 ## Utilisation
